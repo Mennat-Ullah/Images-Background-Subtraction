@@ -1,0 +1,15 @@
+-r
+C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\My Advisor XE Results - Parallel_Project\e000\hs000
+-type
+cpu:stack
+--data-limit-mb=100
+--stack-stitching
+--follow-child
+--stackwalk=offline
+--mrte-mode=auto
+--search-dir
+sym=C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Debug
+--search-dir
+sym=C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project
+--
+C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Debug\Parallel_Project.exe

@@ -1,0 +1,52 @@
+Collection has been started.
+Collection has stopped. Application exit code:  0
+Loading cached program model
+Cache load failed
+Loading collected suitability data
+Finalizing results
+Finalizing the result
+Clearing the database
+The database has been cleared, elapsed time is 0.545 seconds.
+Loading raw data to the database
+Loading data files
+Loading 'systemcollector-MohammedAI-PC.sc' file
+Loading '7160-5832.0.trace' file
+Loading data files
+Updating precomputed scalar metrics
+Raw data has been loaded to the database, elapsed time is 1.192 seconds.
+Processing profile metrics and debug information
+Data transformations have been finished, elapsed time is 0.001 seconds.
+Setting data model parameters
+Resolving module symbols
+Resolving information for `Parallel_Project.exe'
+Resolving information for `kernel32.dll'
+Resolving information for `ntdll.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\kernel32.dll'.
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\ntdll.dll'.
+Resolving information for `MSVCR120.dll'
+Resolving information for `OpenCL.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\MSVCR120.dll'.
+Resolving information for `nvopencl.dll'
+Resolving information for `opencv_world300.dll'
+Warning: Cannot locate debugging symbols for file `C:\opencv\build\x86\vc12\bin\opencv_world300.dll'.
+Symbol resolution has been finished, elapsed time is 3.904 seconds.
+Processing profile metrics and debug information
+Deferred data transformations have been finished, elapsed time is 0.009 seconds.
+Setting data model parameters
+Data model parameters have been set, elapsed time is 0.032 seconds.
+Precomputing frequently used data
+Updating precomputed scalar metrics
+Precomputing frequently used data has been finished, elapsed time is 0.169 seconds.
+Discarding redundant overtime data
+Saving the result
+Redundant overtime data has been discarded, elapsed time is 0.027 seconds.
+Raw collector data has been discarded, elapsed time is 0.000 seconds.
+Finalizing the result took 7.353 seconds.
+Resolving module symbols
+Resolving information for dangling locations
+Saving the result
+Saving program model
+Caching program model
+Compressing the model
+Compressing the model
+Preparing data for efficient display

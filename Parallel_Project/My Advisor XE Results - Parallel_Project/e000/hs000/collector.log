@@ -1,0 +1,72 @@
+Collection has been started.
+Collection has stopped. Application exit code:  0
+Finalizing results
+Finalizing the result
+Clearing the database
+The database has been cleared, elapsed time is 0.580 seconds.
+Loading raw data to the database
+Loading data files
+Loading 'systemcollector-MohammedAI-PC.sc' file
+Loading '4868-7644.0.trace' file
+Loading data files
+Updating precomputed scalar metrics
+Raw data has been loaded to the database, elapsed time is 7.539 seconds.
+Processing profile metrics and debug information
+Data transformations have been finished, elapsed time is 0.001 seconds.
+Setting data model parameters
+Resolving module symbols
+Resolving information for `DEVOBJ.dll'
+Resolving information for `LPK.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\DEVOBJ.dll'.
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\LPK.dll'.
+Resolving information for `ntdll.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\ntdll.dll'.
+Resolving information for `MSCTF.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\MSCTF.dll'.
+Resolving information for `uxtheme.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\uxtheme.dll'.
+Resolving information for `USP10.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\USP10.dll'.
+Resolving information for `opencv_world300.dll'
+Resolving information for `Parallel_Project.exe'
+Resolving information for `nvopencl.dll'
+Warning: Cannot locate debugging symbols for file `C:\opencv\build\x86\vc12\bin\opencv_world300.dll'.
+Resolving information for `OpenCL.dll'
+Resolving information for `MSVCR120.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\MSVCR120.dll'.
+Resolving information for `nvapi.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\nvapi.dll'.
+Resolving information for `USER32.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\USER32.dll'.
+Resolving information for `RPCRT4.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\RPCRT4.dll'.
+Resolving information for `CFGMGR32.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\CFGMGR32.dll'.
+Resolving information for `GDI32.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\GDI32.dll'.
+Resolving information for `kernel32.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\kernel32.dll'.
+Resolving information for `IMM32.DLL'
+Warning: Cannot locate debugging symbols for file `C:\Windows\SysWOW64\IMM32.DLL'.
+Resolving information for `nvd3d9wrap.dll'
+Warning: Cannot locate debugging symbols for file `C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll'.
+Resolving information for `SETUPAPI.dll'
+Resolving information for `KERNELBASE.dll'
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\KERNELBASE.dll'.
+Warning: Cannot locate debugging symbols for file `C:\Windows\syswow64\SETUPAPI.dll'.
+Symbol resolution has been finished, elapsed time is 6.064 seconds.
+Processing profile metrics and debug information
+Deferred data transformations have been finished, elapsed time is 0.037 seconds.
+Setting data model parameters
+Data model parameters have been set, elapsed time is 0.028 seconds.
+Precomputing frequently used data
+Updating precomputed scalar metrics
+Precomputing frequently used data has been finished, elapsed time is 0.202 seconds.
+Discarding redundant overtime data
+Saving the result
+Redundant overtime data has been discarded, elapsed time is 0.112 seconds.
+Raw collector data has been discarded, elapsed time is 0.000 seconds.
+Finalizing the result took 15.820 seconds.
+Preparing data for display of survey call tree
+Resolving module symbols
+Resolving information for dangling locations

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY" >
+  <hotspot filename="C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\algorithm.cpp"
+           line_no="68"
+           routine="histDisplay"
+           cpu_time="7.725760E-003"
+           priority="3"
+           id="1"/>
+  <hotspot filename="C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\algorithm.cpp"
+           line_no="144"
+           routine="main"
+           cpu_time="1.105274E-002"
+           priority="4"
+           id="3"/>
+  <hotspot filename="C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\algorithm.cpp"
+           line_no="143"
+           routine="main"
+           cpu_time="1.105274E-002"
+           priority="5"
+           id="2"/>
+</IntelParallelAdvisorSummary >

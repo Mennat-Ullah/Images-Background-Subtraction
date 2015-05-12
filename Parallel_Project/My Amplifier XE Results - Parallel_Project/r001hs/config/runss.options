@@ -1,0 +1,74 @@
+-r
+C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\My Amplifier XE Results - Parallel_Project\r001hs
+--data-limit-mb=500
+--stack-stitching
+--follow-child
+--itt-config=frame
+--stackwalk=offline
+--type=cswitch
+--mrte-mode=native
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=10
+--search-dir
+sym=C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Debug
+--search-dir
+sym=C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project
+--search-dir
+bin=C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Debug
+--search-dir
+bin=C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project
+--search-dir
+bin=C:/Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\$(VC_ExecutablePath_x86)
+--search-dir
+bin=C:/Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\$(WindowsSDK_ExecutablePath)
+--search-dir
+bin=C:/Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\$(VS_ExecutablePath)
+--search-dir
+bin=C:/Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Parallel_Project\$(MSBuild_ExecutablePath)
+--search-dir
+bin=C:\Windows\SysWow64
+--search-dir
+bin=C:\Program Files (x86)\Microsoft Visual Studio 12.0\Team Tools\Static Analysis Tools\FxCop
+--search-dir
+bin=C:\Program Files (x86)\Intel\Trace Analyzer and Collector\9.0.3.049\bin
+--search-dir
+bin=C:\Program Files (x86)\Intel\MPI\5.0.3.048\intel64\bin
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\mpirt
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\mpirt
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler
+--search-dir
+bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler
+--search-dir
+bin=C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common
+--search-dir
+bin=C:\Windows\system32
+--search-dir
+bin=C:\Windows
+--search-dir
+bin=C:\Windows\System32\Wbem
+--search-dir
+bin=C:\Windows\System32\WindowsPowerShell\v1.0
+--search-dir
+bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit
+--search-dir
+bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn
+--search-dir
+bin=C:\Program Files\Microsoft\Web Platform Installer
+--search-dir
+bin=C:\Program Files\Microsoft Network Monitor 3
+--search-dir
+bin=C:\Program Files\TortoiseSVN\bin
+--search-dir
+bin=C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin
+--search-dir
+bin=C:\Program Files (x86)\Skype\Phone
+--search-dir
+bin=C:\opencv\build\x86\vc12\bin
+--search-dir
+bin=C:\Program Files (x86)\Intel\Trace Analyzer and Collector\9.0.3.049\dll
+--
+C:\Users\Mohammed.A.I\Documents\Visual Studio 2013\Projects\Parallel_Project\Debug\Parallel_Project.exe
